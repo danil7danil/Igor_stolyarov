@@ -1,0 +1,1 @@
+vless://c7753a3d-1c97-45ab-9935-59e1aae0c67e@3n1.vpnchikx.pro:8443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=4326#vpnchik%20%40VPNchik_bot
