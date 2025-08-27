@@ -1,2 +1,1 @@
-
-vless://c7753a3d-1c97-45ab-9935-59e1aae0c67e@3n1.vpnchikx.pro:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bunny.net&fp=chrome&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%94%92%20%D0%98%D0%B3%D0%BE%D1%80%D1%8C%20%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BE%D0%B
+vless://c7753a3d-1c97-45ab-9935-59e1aae0c67e@3n1.vpnchikx.pro:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bunny.net&fp=chrome&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%94%92%20%D0%98%D0%B3%D0%BE%D1%80%D1%8C%20%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BE%D
