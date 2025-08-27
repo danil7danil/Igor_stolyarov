@@ -1,1 +1,1 @@
-vless://c7753a3d-1c97-45ab-9935-59e1aae0c67e@3n1.vpnchikx.pro:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bunny.net&fp=chrome&secur
+ss://c7753a3d-1c97-45ab-9935-59e1aae0c67e@3n1.vpnchikx.pro:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bunny.net&fp=chrome&secur
