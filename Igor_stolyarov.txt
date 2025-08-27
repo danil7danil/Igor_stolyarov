@@ -1,1 +1,1 @@
-vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%94%92%20%D0%98%D0%B3%D0%BE%D1%80%D1%8C%20%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BE%D0%B2
+vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%94%92%20%D0%98%D0%B3%D0%BE%D1%80%D1%8C%20%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BE%D0%B
