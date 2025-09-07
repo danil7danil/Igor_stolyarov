@@ -1,1 +1,20 @@
-wireguard://%2BdiKZ99DNcCREJBnMPUTJH7qat0p2XmyUEfE%2FkO1ecY%3D@162.159.195.1:500?address=172.16.0.2%2C2606%3A4700%3A110%3A832b%3Ad4d%3Acc9d%3A3ba6%3Ade75&presharedkey=&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%94%92%20%D0%98%D0%B3%D0%BE%D1%80%D1%8C%20%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BE%D0%B2
+[Interface]
+PrivateKey = FEzWycfSyG3HmlCiNH1hYwWBXEd8bfPsYfD6UFKgd6o=
+Address = 172.16.0.2, 2606:4700:110:8589:8a9a:c915:a4e3:c722
+DNS = 1.1.1.1, 2606:4700:4700::1111, 1.0.0.1, 2606:4700:4700::1001
+MTU = 1280
+S1 = 0
+S2 = 0
+Jc = 4
+Jmin = 40
+Jmax = 70
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+
+
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 162.159.195.1:500
